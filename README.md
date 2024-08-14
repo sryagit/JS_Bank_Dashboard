@@ -1,2 +1,2 @@
 # Power BI - project
-# JS_Bank_Dashboard
+# JS Bank Dashboard
