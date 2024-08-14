@@ -1,2 +1,2 @@
-# mlmodel1
-hi
+# Power BI - project
+# JS_Bank_Dashboard
